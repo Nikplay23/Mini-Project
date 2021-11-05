@@ -1,6 +1,6 @@
 # Mini-Project
 # Projekta nosaukums
-  Bank Management System
+  - Bank Management System
 ## Apraksts
   Programma lauj izveidot jaunu cilvēka bankas kontu, atjaunināt kontu, dzēst kontu un pārvaldīt darījumus, 
   skatīties cilvēka datus, veikt izmaiņās tājos. Strādā, ka bankas lappuse, kur var veikt daudzas funkcijas
